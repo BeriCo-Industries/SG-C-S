@@ -1,7 +1,9 @@
 # SG-C-S
 The Stargate-Control Server is a Software developed for the use with BeriCo Industries 
 [Stargate-Control Software](https://github.com/BeriCo-Industries/SG-C).<br>
-It can also be used with other Stargate control Software if developed with our guide.
+It can also be used with other Stargate control Software if developed with our guide.<br>
+
+**This Software is still in development so the use would be pointless at this moment.**
 
 #### Features
 - Gate address storage and management
