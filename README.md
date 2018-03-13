@@ -11,7 +11,7 @@ It can also be used with other Stargate control Software if developed with our g
 - Permissionsystem so only you and your freinds have access
 
 #### Requirements
-- [SG Craft](http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/SGCraft/) by gcewing
+- [Greg's SG Craft](http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/SGCraft/) by gcewing
 - [OpenComputers](https://minecraft.curseforge.com/projects/opencomputers) by Sangar, Payonel, Vexatos
 
 #### Bugs
