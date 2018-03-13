@@ -1,0 +1,45 @@
+NAME
+  sg-c-s
+
+
+DESCRIPTION
+  This allows you to control the Stargate-Control Server Software
+
+
+PARAMETERS
+  start
+    Starts the server. If no options are given it uses the default settings
+
+  stop
+    Stops the Server
+
+  add
+    Adds a User/Group/Address
+
+  rm
+    Removes a User/Group/Address
+
+  edit
+    Edits a User/Group/Address
+
+  reset
+    Resets the gate list to the default(empty)
+
+NOTE: User and Group changes can only be performed by the sysAdmin group
+      add, rm, edit, reset
+
+
+OPTIONS
+  sPort=######  -  Sets or changes the port the server uses to listen on communication from the SG-Control Software on the DHD Computers
+
+  port=######  -  Sets or changes the port the server uses to communicate with the SG-Control Software on the DHD Computers
+
+  gPath  -  Sets or changes the path where the gate.list is saved
+
+
+EXAMPLES
+  sg-c-s start --sPort=12345 --gPath=/home/gates/
+    Starts the Server on the specified port with the specified gate.list path
+
+  sg-c-s --sPort=54321
+    changes the old port to the new one

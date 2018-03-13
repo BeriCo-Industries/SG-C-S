@@ -1,0 +1,4 @@
+{
+{["name"] = "admin", ["pw"] = "0000", ["rank"] = "sysAdmin"},
+{["name"] = "cDHD" ["pw"] = "0000", ["rank"] = "cDHD"}
+}
