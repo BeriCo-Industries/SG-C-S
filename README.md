@@ -15,5 +15,5 @@ It can also be used with other Stargate control Software if developed with our g
 - [OpenComputers](https://minecraft.curseforge.com/projects/opencomputers) by Sangar, Payonel, Vexatos
 
 #### Bugs
-If you encounter a bug please fell free to open an issue and be as specific as possible.<br>
+If you encounter a bug please feel free to open an issue and be as specific as possible.<br>
 It helps alot if you can tell us how to reproduce it
